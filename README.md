@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,75:1F6FEB,100:58A6FF&height=170&section=header" alt="Blue gradient wave banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:0B3D91,70:1F6FEB,100:58A6FF&height=220&section=header&text=Deekshith%20Rokkam&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling" alt="Animated blue gradient banner with Deekshith Rokkam" />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <img width="180" src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-58A6FF?style=flat-square&labelColor=0D1117" alt="" />
+  <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:1F6FEB,70:58A6FF,100:0D1117&height=4&section=header" alt="" />
 </div>
 
 ## 🧑‍💻 About Me
@@ -36,7 +36,7 @@
 ---
 
 <div align="center">
-  <img width="180" src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-58A6FF?style=flat-square&labelColor=0D1117" alt="" />
+  <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:1F6FEB,70:58A6FF,100:0D1117&height=4&section=header" alt="" />
 </div>
 
 ## 🧰 Tech Stack
@@ -100,7 +100,7 @@
 ---
 
 <div align="center">
-  <img width="180" src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-58A6FF?style=flat-square&labelColor=0D1117" alt="" />
+  <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:1F6FEB,70:58A6FF,100:0D1117&height=4&section=header" alt="" />
 </div>
 
 ## 📊 GitHub Stats
@@ -112,10 +112,24 @@
   <img src="https://streak-stats.demolab.com/?user=Deekshithrokkam&theme=dark&hide_border=false" alt="GitHub streak" />
 </div>
 
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deekshithrokkam&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" width="100%" />
+</div>
+
+
+### ⚡ Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deekshithrokkam&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub contribution activity graph" width="100%" />
+</div>
+
+
 ---
 
 <div align="center">
-  <img width="180" src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-58A6FF?style=flat-square&labelColor=0D1117" alt="" />
+  <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:1F6FEB,70:58A6FF,100:0D1117&height=4&section=header" alt="" />
 </div>
 
 ## 🤝 Let's Connect
