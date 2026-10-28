@@ -1,5 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,45:0B1F3A,100:00D4FF&height=190&section=header&text=DEEKSHITH%20ROKKAM&fontSize=40&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&desc=%3C%20BUILD%20%2F%3E%20%E2%80%A2%20DEBUG%20%E2%80%A2%20REPEAT&descSize=16&descAlignY=72&descColor=00F5FF" alt="Futuristic tech banner with Deekshith Rokkam and build debug repeat" />
+
+# <code>DEEKSHITH_ROKKAM.exe</code>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=050816" alt="Status online" /> <img src="https://img.shields.io/badge/MODE-BUILD%20%2F%20DEBUG-1F6FEB?style=for-the-badge&labelColor=050816" alt="Build and debug mode" />
+
 </div>
 
 <div align="center">
