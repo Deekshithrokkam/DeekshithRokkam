@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:0B3D91,70:1F6FEB,100:58A6FF&height=220&section=header&text=Deekshith%20Rokkam&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling" alt="Animated blue gradient banner with Deekshith Rokkam" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,45:0B1F3A,100:00D4FF&height=190&section=header&text=DEEKSHITH%20ROKKAM&fontSize=40&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&desc=%3C%20BUILD%20%2F%3E%20%E2%80%A2%20DEBUG%20%E2%80%A2%20REPEAT&descSize=16&descAlignY=72&descColor=00F5FF" alt="Futuristic tech banner with Deekshith Rokkam and build debug repeat" />
 </div>
 
 <div align="center">
@@ -150,5 +150,6 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" alt="Blue gradient wave footer" />
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:1F6FEB,100:00F5FF&height=3&section=header" alt="Neon blue tech footer line" />
+  <sub>01000010 01010101 01001001 01001100 01000100 // KEEP BUILDING</sub>
 </div>
