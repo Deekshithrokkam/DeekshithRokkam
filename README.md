@@ -1,8 +1,8 @@
 <div align="center">
 
-# <code>DEEKSHITH_ROKKAM.exe</code>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=%24+whoami;Deekshith+Rokkam;%3E+building+the+future+one+commit+at+a+time" alt="Terminal-inspired animated introduction" />
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=050816" alt="Status online" /> <img src="https://img.shields.io/badge/MODE-BUILD%20%2F%20DEBUG-1F6FEB?style=for-the-badge&labelColor=050816" alt="Build and debug mode" />
+<img src="https://img.shields.io/badge/OPEN_TO-LEARNING-00F5FF?style=flat-square&labelColor=0D1117" alt="Open to learning" /> <img src="https://img.shields.io/badge/FOCUS-WEB%20%7C%20BACKEND%20%7C%20AI-1F6FEB?style=flat-square&labelColor=0D1117" alt="Web, backend and AI focus" />
 
 </div>
 
