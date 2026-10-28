@@ -1,4 +1,8 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,75:1F6FEB,100:58A6FF&height=170&section=header" alt="Blue gradient wave banner" />
+</div>
+
+<div align="center">
 
 # 👋 Hey, I'm Deekshith Rokkam!
 
@@ -17,6 +21,10 @@
 
 ---
 
+<div align="center">
+  <img width="180" src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-58A6FF?style=flat-square&labelColor=0D1117" alt="" />
+</div>
+
 ## 🧑‍💻 About Me
 
 - 🎓 Student passionate about technology and software development.
@@ -26,6 +34,10 @@
 - 🌱 Always learning, building, and leveling up my skills.
 
 ---
+
+<div align="center">
+  <img width="180" src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-58A6FF?style=flat-square&labelColor=0D1117" alt="" />
+</div>
 
 ## 🧰 Tech Stack
 
@@ -87,6 +99,10 @@
 
 ---
 
+<div align="center">
+  <img width="180" src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-58A6FF?style=flat-square&labelColor=0D1117" alt="" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -97,6 +113,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <img width="180" src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-58A6FF?style=flat-square&labelColor=0D1117" alt="" />
+</div>
 
 ## 🤝 Let's Connect
 
@@ -113,4 +133,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Deekshithrokkam&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views" />
 
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" alt="Blue gradient wave footer" />
 </div>
