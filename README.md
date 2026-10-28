@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Deekuu!
+# 👋 Hey, I'm Deekshith Rokkam!
 
 ### 💻 Student • Tech Explorer • Developer in Progress
 
