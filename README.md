@@ -8,6 +8,7 @@
   <a href="https://github.com/Deekshithrokkam"><img src="https://img.shields.io/badge/GitHub-Deekshithrokkam-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
   <a href="https://instagram.com/deekshith_.x7"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:saideekshithrokkam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://deekshith-rokkam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+by+building+%F0%9F%9A%80;Exploring+Web+%26+Backend+Development;Curious+about+AI+%26+Cybersecurity" alt="Animated introduction" />
@@ -102,7 +103,8 @@
 <p align="center">
   <a href="https://github.com/Deekshithrokkam">GitHub</a> ·
   <a href="https://instagram.com/deekshith_.x7">Instagram</a> ·
-  <a href="mailto:saideekshithrokkam@gmail.com">Email</a>
+  <a href="mailto:saideekshithrokkam@gmail.com">Email</a> ·
+  <a href="https://deekshith-rokkam.vercel.app/">Portfolio</a>
 </p>
 
 <div align="center">
